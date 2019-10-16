@@ -1,0 +1,34 @@
+.pricing {
+    margin-top: 100px;
+}
+
+.header-size {
+    font-size: 1.5rem;
+}
+
+.evenly {
+    justify-content: space-evenly;
+}
+
+.cards {
+    width: 90% !important;
+}
+
+.footer-top {
+    border-top: 1px solid silver;
+}
+
+.lists_color ul li a {
+    color: grey;
+}
+
+footer .lists_color {
+    padding: 50px 0;
+    margin-top: 60px;
+}
+
+@media screen and (max-width:576px) {
+    footer .lists_color .test {
+        text-align: center;
+    }
+}
